@@ -1,0 +1,70 @@
+﻿@model TraineesManagementSystem.Models.PaginationProperties
+@{
+    Layout = null;
+}
+<style>
+
+
+	.flex {
+		width: 50vw;
+		height: 80px;
+		line-height: 80px;
+		background-color: white;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		margin: -25px 0 0 -25vw;
+		ul
+
+	{
+		display: flex;
+		padding: 0;
+		margin: 0;
+		box-shadow: 0 10px 20px 0 rgba(black, 0.25);
+		li
+
+	{
+		flex: 1;
+		list-style: none;
+		text-align: center;
+		position: relative;
+		font-size: 20px;
+		font-weight: bold;
+		transition: 0.5s ease;
+		cursor: pointer;
+		user-select: none;
+		&:hover
+
+	{
+		background-color: rgba(white, 0.25);
+		color: #f564a9;
+	
+
+		.bar {
+			width: 20%;
+			background-color: #f564a9;
+			height: 5px;
+			position: absolute;
+			left: 0;
+			bottom: 0;
+			transition: 0.5s ease;
+		}
+
+		}
+		}
+	</style>
+    @if (Model.TotalPages > 0)
+    {
+        <div class="flex">
+        <ul>
+
+            @for (var pge = Model.StartPage; pge <= Model.EndPge; pge++)
+
+            {
+                <li class="page-item @(pge == Model.CurrentPage ? "active" : "")" style="padding-left:30px;"><a class="page-link" asp-controller="AdminView" asp-action="AllTraineeDetails" asp-route-page="@pge">@pge</a></li>
+            }
+			<div class="bar"></div>
+        </ul>
+    </div>
+        
+    }

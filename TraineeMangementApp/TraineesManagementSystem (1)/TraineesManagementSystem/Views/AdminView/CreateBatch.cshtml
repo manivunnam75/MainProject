@@ -1,0 +1,23 @@
+﻿@model TraineesManagementSystem.Models.BatchDetails;
+
+@{
+        Layout = "AdminLayout";
+
+}
+
+<div class="Create">
+    <h2>Create Batch</h2>
+    <form method="post">
+
+        <input asp-for="BatchId" type="text" placeholder="BatchId" id="username" autocomplete="off" required>
+
+        <input asp-for="BatchName" type="text" placeholder="Batch Name" id="username" autocomplete="off" required>
+
+        <input asp-for="CourseAssigned" type="text" placeholder="CourseAssigned" id="username" autocomplete="off" required>
+
+
+        <input type="submit" asp-action="CreateBatch" />
+    </form>
+</div>
+
+  

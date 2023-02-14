@@ -1,0 +1,118 @@
+﻿@model IEnumerable<TraineesManagementSystem.Models.TraineeDetails>
+
+@{
+    ViewData["Title"] = "AllDetails";
+    Layout = "AdminLayout";
+
+}
+
+
+<center>
+    <form asp-action="AllDetails" method="post">
+        <input name="TraineeId" placeholder="Search By Id" />
+        <input type="submit" />
+    </form>
+</center>
+@if (Model != null)
+{
+    @foreach (var item in Model)
+    {
+
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TraineeId)
+                    </th>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TraineeId)
+                    </td>
+
+                    <th>
+                        @Html.DisplayNameFor(model => model.TraineeName)
+                    </th>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TraineeName)
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.MobileNumber)
+                    </th>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MobileNumber)
+                    </td>
+                    
+                </tr>
+                <tr>
+
+                    <th>
+                        @Html.DisplayNameFor(model => model.EmailId)
+                    </th>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.EmailId)
+                    </td>
+                    
+
+                </tr>
+
+                <tr>
+
+                   
+                    <th>
+                        @Html.DisplayNameFor(model => model.DegreePercentage)
+                    </th>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DegreePercentage)
+                    </td>
+
+                </tr>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model=>model.DateOfBirth)
+                    </th>
+                    <td>
+                        @Html.DisplayFor(modelItem=>item.DateOfBirth)
+                    </td>
+                    <th>
+                        @Html.DisplayNameFor(model=>model.DegreePassedOut)
+                    </th>
+                    <td>
+                        @Html.DisplayFor(modelItem=>item.DegreePassedOut)
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model=>model.DegreeCollegeName)
+                    </th>
+                    <td>
+                        @Html.DisplayFor(modelItem=>item.DegreeCollegeName)
+                    </td>
+                    <th>
+                        @Html.DisplayNameFor(model=>model.DateOfJoining)
+                    </th>
+                    <td>
+                        @Html.DisplayFor(modelItem=>item.DateOfJoining)
+                    </td>
+
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+
+                    <td>
+                        <a asp-action="Edit" asp-controller="AdminView" asp-route-id="@item.TraineeId">Edit</a> |
+                    </td>
+                    <td>
+                        <a asp-action="Delete" asp-route-id="@item.IdentityKey" asp-controller="AdminView">Delete</a>
+                    </td>
+                    <td>
+                        <a asp-action="CreateBatch" asp-controller="AdminView" asp-for="TraineeId" asp-route-id="@item.TraineeId">Add To Batch</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    }
+}

@@ -1,0 +1,44 @@
+﻿@model TraineesManagementSystem.Models.BatchDetails
+
+@{
+    ViewData["Title"] = "EditBatch";
+}
+
+<h1>EditBatch</h1>
+
+<h4>BatchDetails</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EditBatch">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="BatchId" class="control-label"></label>
+                <input asp-for="BatchId" class="form-control" />
+                <span asp-validation-for="BatchId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BatchName" class="control-label"></label>
+                <input asp-for="BatchName" class="form-control" />
+                <span asp-validation-for="BatchName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CourseAssigned" class="control-label"></label>
+                <input asp-for="CourseAssigned" class="form-control" />
+                <span asp-validation-for="CourseAssigned" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
