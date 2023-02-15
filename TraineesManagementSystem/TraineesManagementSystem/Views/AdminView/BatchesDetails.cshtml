@@ -1,0 +1,74 @@
+﻿@model IEnumerable<TraineesManagementSystem.Models.BatchDetails>
+
+@{
+
+    Layout = "AdminLayout";
+
+}
+
+
+
+
+<button><a style="text-decoration:none;color: #fff;" asp-action="CreateBatch" asp-controller="AdminView">Create Batch</a></button>
+
+
+
+<h1>Batches Details</h1>
+
+
+    
+@if (Model != null)
+{
+	@foreach (var item in Model)
+	{
+
+	
+
+
+			<div class="batch">
+
+				
+				<div class="left">
+					<i class="fa-solid fa-people-group"></i>
+				</div>
+
+				<div class="right">
+
+					<div class="info">
+						
+						<div class="info_data">
+							<div class="data">
+								<h4>Batch Id</h4>
+								<p>@Html.DisplayFor(modelitem=>item.BatchId)</p>
+							</div>
+							<div class="data">
+								<h4>Batch Name</h4>
+								<p>@Html.DisplayFor(modelitem=>item.BatchName)</p>
+							</div>
+						</div>
+
+					</div>
+
+
+
+					<div class="social_media">
+						<ul>
+							<li><a asp-action="DeleteBatch" asp-route-BatchId="@item.BatchId"><i class="fa-solid fa-trash"></i></a></li>
+
+							<li><a asp-action="EveryBatchDetails" asp-controller="AdminView" asp-route-BatchId="@item.BatchId"><i class="fa-solid fa-circle-info"></i> </a></li>
+
+							<li><a asp-action="EditBatch" asp-controller="AdminView" asp-route-BatchId="@item.BatchId"><i class="fa-solid fa-pen-to-square"></i></a></li>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+		
+	}
+}
+else
+{
+	<h2>You haven't created any batches yet</h2>
+}
+
+

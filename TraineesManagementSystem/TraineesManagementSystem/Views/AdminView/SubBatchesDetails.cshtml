@@ -1,0 +1,74 @@
+﻿@model IEnumerable<TraineesManagementSystem.Models.SubBatchesDetails>
+
+@{
+    Layout = "AdminLayout";
+
+    ViewData["Title"] = "SubBatchesDetails";
+    int id= (int)TempData["mainBatchId"];
+    string batchName=  TempData["mainBatchName"].ToString();
+}
+
+
+<button><a style="text-decoration:none;color: #fff;" asp-controller="AdminView" asp-action="SubBatch" asp-route-MainBatchId="@id" asp-route-MainBatchName="@batchName">Create Sub Batch</a></button>
+
+
+
+<h2 style="margin-left:550px;font-size:30px;">SubBatches Details</h2>
+
+
+
+@if (Model != null)
+{
+    @foreach (var item in Model)
+    {
+
+
+
+
+        <div class="batch">
+
+
+            <div class="left">
+                <i class="fa-solid fa-people-group"></i>
+            </div>
+
+            <div class="right">
+
+                <div class="info">
+
+                    <div class="info_data">
+                        <div class="data">
+                            <h4>MainBatch Name</h4>
+                            <p>@Html.DisplayFor(modelitem=>item.MainBatchName)</p>
+                        </div>
+                        <div class="data">
+                            <h4> SubBatch Name</h4>
+                            <p>@Html.DisplayFor(modelitem=>item.SubBatchName)</p>
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+                <div class="social_media">
+                    <ul>
+                        <li><a asp-action="DelSubBatch" asp-route-subBatchName="@item.SubBatchName" asp-route-mainBatchId="@item.MainBatchId"><i class="fa-solid fa-trash"></i></a></li>
+
+                        <li><a asp-route-SubBatchName="@item.SubBatchName" asp-action="TraineesInSubbatches"><i class="fa-solid fa-circle-info"></i> </a></li>
+
+                        <li><a asp-action="Edit" asp-route-id="@item.Id"><i class="fa-solid fa-pen-to-square"></i></a></li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    }
+}
+else
+{
+    <h2>There are no Sub Batches yet.Create new.</h2>
+}
+
+

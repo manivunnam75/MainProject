@@ -1,0 +1,168 @@
+﻿@model IEnumerable<TraineesManagementSystem.Models.TraineesWithBatches>
+
+@{
+    ViewData["Title"] = "EveryBatchDetails";
+    Layout = "AdminLayout";
+
+}
+@{
+    int id =(int) TempData["id"];
+    string batchName = TempData["name"].ToString();
+    TempData["MainBatchId"] = id;
+}
+
+
+
+<button><a style="text-decoration:none;color: #fff;" asp-action="SubBatchesDetails">Sub Batches</a></button>
+
+<button><a style="text-decoration:none;color: #fff;" asp-controller="AdminView" asp-action="AllDetails1" asp-route-BatchId="@id" asp-route-BatchName="@batchName">Add Trainee</a></button>
+
+<h1>Batch Name: <p>@TempData["name"].ToString()</p></h1>
+
+
+
+
+<dir class="board">
+	<table width="100%">
+		<thead>
+			<tr>
+				<td></td>
+				<td>TraineeId</td>
+				<td>Remove</td>
+				<td>Info</td>
+				
+			</tr>
+		</thead>
+		<tbody>
+			@if (Model != null && Model.Count() > 0)
+			{
+
+				foreach (var item in Model)
+				{
+
+					<tr>
+						<td class="people">
+                            <div class="people-de">
+                                <h5>
+                                    
+                                            <i class="fa-sharp fa-solid fa-user"></i>
+                                </h5>
+
+                            </div>
+                            
+                        </td>
+						
+                        <td class="people">
+
+                            <div class="people-de">
+                                <h5>
+                                    <a asp-action="GetTraineeDetailsById" asp-route-traineeId="@item.TraineeId" style="text-decoration:none;">@Html.DisplayFor(modelitem=>item.TraineeName)</a>
+
+                                </h5>
+
+                            </div>
+                        </td>
+
+                        <td class="people-des">
+                            
+                                <h5>
+                                    @Html.DisplayFor(modelitem=>item.TraineeId)
+                                </h5>
+
+                        </td>
+
+						
+						
+            <td class="edit">
+                <a asp-action="DeleteTraineeFromBatch" asp-route-TraineeId="@item.TraineeId" asp-route-BatchId="@item.BatchId">Delete</a>
+            </td>
+            <td class="edit">
+                    <a asp-action="TraineeDetails" asp-controller="AdminView" asp-route-TraineeId="@item.TraineeId">Details</a> 
+
+            </td>
+					</tr>
+
+
+				}
+			}
+
+
+
+
+			else
+			{
+			<td colspan="4" class="text-center"><b><a asp-action="Register">No Data Available . Please Add Data By CLick On Create Button</a></b></td>
+			}
+		</tbody>
+		<td colspan="4" class="text-center"><b>No more trainees to show.</b></td>
+
+
+	</table>
+</dir>
+
+@*<h1>EveryBatchDetails</h1>
+
+<link rel="stylesheet" href="~/css/Details.css">
+
+<a type="submit" asp-action="SubBatchesDetails"  >Sub Batches</a>
+
+    <a type="submit" asp-controller="AdminView" asp-action="AllDetails1" asp-route-BatchId="@id" asp-route-BatchName="@batchName" asp-route-CourseAssigned="@courseAssigned">Add Traine</a>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BatchId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BatchName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TraineeId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TraineeName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model=>model.CourseAssigned)
+            </th>
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        
+@foreach (var item in Model) {
+
+
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BatchId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BatchName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TraineeId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TraineeName)
+            </td>
+               <td>
+                   @Html.DisplayFor(modelItem=>item.CourseAssigned)
+               </td>
+            <td>
+                <a asp-action="DeleteTraineeFromBatch" asp-route-TraineeId="@item.TraineeId" asp-route-BatchId="@item.BatchId">Delete</a>
+            </td>
+            <td>
+                    <a asp-action="TraineeDetails" asp-controller="AdminView" asp-route-TraineeId="@item.TraineeId">Details</a> |
+
+            </td>
+               
+
+        </tr>
+}
+    </tbody>
+</table>*@
+

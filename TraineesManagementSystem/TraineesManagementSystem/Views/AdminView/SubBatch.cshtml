@@ -1,0 +1,18 @@
+﻿@model TraineesManagementSystem.Models.SubBatchesDetails;
+@{
+    Layout = "AdminLayout";
+
+}
+
+
+<div class="Create">
+	<h2>Create SubBatch</h2>
+	<form method="post">
+
+		<input asp-for="SubBatchName" type="text" placeholder="SubBatch Name" id="username" autocomplete="off" required>
+
+		<input asp-for="AssignCourse" type="text" placeholder="Assign Course" id="username" autocomplete="off" required/>
+
+		<input type="submit" asp-action="CreateSubBatch" />
+	</form>
+</div>
