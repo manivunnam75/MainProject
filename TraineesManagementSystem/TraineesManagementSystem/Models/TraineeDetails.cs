@@ -57,10 +57,8 @@ namespace TraineesManagementSystem.Models
 
         public string ProfilePic { get; set; }
 
-        public bool Ischeck { get; set; }
 
-
-
+       
 
     }
 }

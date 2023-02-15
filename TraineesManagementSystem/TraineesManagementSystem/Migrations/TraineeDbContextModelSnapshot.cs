@@ -104,9 +104,6 @@ namespace TraineesManagementSystem.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<bool>("Ischeck")
-                        .HasColumnType("bit");
-
                     b.Property<string>("MobileNumber")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
