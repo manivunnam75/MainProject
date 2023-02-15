@@ -10577,11 +10577,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\TraineesManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\TraineesManagementSystem.csproj",
       "projectName": "TraineesManagementSystem",
-      "projectPath": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\TraineesManagementSystem.csproj",
+      "projectPath": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\TraineesManagementSystem.csproj",
       "packagesPath": "C:\\Users\\Vamsi Nakka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\obj\\",
+      "outputPath": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

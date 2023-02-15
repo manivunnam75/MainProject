@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CV21aCPehqm5R73EatrIW/zhFuhSESwHNPd5pEDn/hhEdPMV/DuoNuGoXRcp5bjs05jBGrVyDWjMWo5mfjYr4Q==",
+  "dgSpecHash": "cGcM5a5VZb99QOmJ0rqqslrHkzEFmur/mwCscmlB2escoAs3PO37q6tE8p6KBvAPOLpzD8bRnEtBlcXoruIz3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\TraineesManagementSystem.csproj",
+  "projectFilePath": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\TraineesManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vamsi Nakka\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Vamsi Nakka\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

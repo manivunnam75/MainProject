@@ -57,12 +57,15 @@
           </a>
         </li>
 
+
         <li>
                     <a asp-action="AllTraineeDetails" asp-controller="AdminView">
             <i class='bx bx-pie-chart-alt-2' ></i>
             <span class="links_name">All Trainee Details</span>
           </a>
         </li>
+
+           
 
 
       </ul>
@@ -73,10 +76,13 @@
         <i class='bx bx-menu sidebarBtn'></i>
         <span class="dashboard">Dashboard</span>
       </div>
+            <form asp-action="AllDetails">
       <div class="search-box">
-        <input type="text" placeholder="Search...">
-        <i class='bx bx-search' ></i>
-      </div>
+
+                    <input type="text" placeholder="Search..." name="traineeId">
+                <i class='bx bx-search'></i>
+                </div>
+            </form>
       <div class="profile-details">
         <!--<img src="images/profile.jpg" alt="">-->
         <span class="admin_name">Sumith Vyasa
