@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DUIS7rSdIcGTPyjF01xH+bhMcV6CH/mbU9HQliI/KRM=",
+  "Hash": "uj6qL4WM/9rGDqJbgLAmzFi6TIMk1IlmaTyVDt5Kmb4=",
   "Source": "TraineesManagementSystem",
   "BasePath": "_content/TraineesManagementSystem",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TraineesManagementSystem\\wwwroot",
       "Source": "TraineesManagementSystem",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TraineesManagementSystem.styles.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TraineesManagementSystem.styles.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "TraineesManagementSystem.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TraineesManagementSystem.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TraineesManagementSystem.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TraineesManagementSystem.bundle.scp.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TraineesManagementSystem.bundle.scp.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "TraineesManagementSystem.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TraineesManagementSystem.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TraineesManagementSystem.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\css\\Admin.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\css\\Admin.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "css/Admin.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Admin.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\css\\AllTraineeDetails.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\css\\AllTraineeDetails.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "css/AllTraineeDetails.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\AllTraineeDetails.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\css\\BatchDetails.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\css\\BatchDetails.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "css/BatchDetails.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\BatchDetails.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\css\\CreateBatchAndSubBatch.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\css\\CreateBatchAndSubBatch.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "css/CreateBatchAndSubBatch.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\CreateBatchAndSubBatch.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\css\\RegistrationPage.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\css\\RegistrationPage.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "css/RegistrationPage.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\RegistrationPage.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\css\\ShowTraineePopUp.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\css\\ShowTraineePopUp.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "css/ShowTraineePopUp.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\ShowTraineePopUp.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\css\\TraineeDetails.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\css\\TraineeDetails.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "css/TraineeDetails.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\TraineeDetails.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\favicon.ico",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\images\\AdminPageImage.jpg",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\images\\AdminPageImage.jpg",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "images/AdminPageImage.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\AdminPageImage.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\images\\AdminTraineeHome.jpg",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\images\\AdminTraineeHome.jpg",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "images/AdminTraineeHome.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\AdminTraineeHome.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\images\\AdminView.jpg",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\images\\AdminView.jpg",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "images/AdminView.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\AdminView.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\images\\CognineLogo.jpg",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\images\\CognineLogo.jpg",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "images/CognineLogo.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\CognineLogo.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\images\\Home.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\images\\Home.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "images/Home.jfif",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Home.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\images\\HomeImage.jpg",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\images\\HomeImage.jpg",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "images/HomeImage.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\HomeImage.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\images\\Laptopp.jpg",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\images\\Laptopp.jpg",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "images/Laptopp.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Laptopp.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\images\\Student.gif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\images\\Student.gif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "images/Student.gif",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Student.gif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\images\\Technology.jpg",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\images\\Technology.jpg",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "images/Technology.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Technology.jpg"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\js\\site.js",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\js\\User.js",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\js\\User.js",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "js/User.js",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\js\\User.js"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\LaptopImage.avif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\LaptopImage.avif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "LaptopImage.avif",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\LaptopImage.avif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\115ee366-b69d-4c13-bfa5-40db3a06a86b_Tiger.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\115ee366-b69d-4c13-bfa5-40db3a06a86b_Tiger.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/115ee366-b69d-4c13-bfa5-40db3a06a86b_Tiger.jfif",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\115ee366-b69d-4c13-bfa5-40db3a06a86b_Tiger.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\15aff7f1-6081-4416-98b1-81c52e995a55_ChrisGayle.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\15aff7f1-6081-4416-98b1-81c52e995a55_ChrisGayle.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/15aff7f1-6081-4416-98b1-81c52e995a55_ChrisGayle.jfif",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\15aff7f1-6081-4416-98b1-81c52e995a55_ChrisGayle.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\1790f1e8-d9a2-4cbc-bcac-edae469009cf_sachin-records.png",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\1790f1e8-d9a2-4cbc-bcac-edae469009cf_sachin-records.png",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/1790f1e8-d9a2-4cbc-bcac-edae469009cf_sachin-records.png",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\1790f1e8-d9a2-4cbc-bcac-edae469009cf_sachin-records.png"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\1938f3f0-6855-4f60-badd-b6a260be472f_MicrosoftTeams-image (1).png",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\1938f3f0-6855-4f60-badd-b6a260be472f_MicrosoftTeams-image (1).png",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/1938f3f0-6855-4f60-badd-b6a260be472f_MicrosoftTeams-image (1).png",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\1938f3f0-6855-4f60-badd-b6a260be472f_MicrosoftTeams-image (1).png"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\1f3bf939-9333-4fcb-b5d7-e7a33a6c220a_Tiger.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\1f3bf939-9333-4fcb-b5d7-e7a33a6c220a_Tiger.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/1f3bf939-9333-4fcb-b5d7-e7a33a6c220a_Tiger.jfif",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\1f3bf939-9333-4fcb-b5d7-e7a33a6c220a_Tiger.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\276837a2-4303-4101-a750-07d617bba83f_MicrosoftTeams-image (2).png",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\276837a2-4303-4101-a750-07d617bba83f_MicrosoftTeams-image (2).png",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/276837a2-4303-4101-a750-07d617bba83f_MicrosoftTeams-image (2).png",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\276837a2-4303-4101-a750-07d617bba83f_MicrosoftTeams-image (2).png"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\2e3cba06-85b4-431a-a39c-8cf2f54d2001_Tiger.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\2e3cba06-85b4-431a-a39c-8cf2f54d2001_Tiger.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/2e3cba06-85b4-431a-a39c-8cf2f54d2001_Tiger.jfif",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\2e3cba06-85b4-431a-a39c-8cf2f54d2001_Tiger.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\2f715c42-6a47-49ae-b55a-25bfad208c02_ChrisGayle.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\2f715c42-6a47-49ae-b55a-25bfad208c02_ChrisGayle.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/2f715c42-6a47-49ae-b55a-25bfad208c02_ChrisGayle.jfif",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\2f715c42-6a47-49ae-b55a-25bfad208c02_ChrisGayle.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\34abbe06-1fc7-4f6b-baee-879ab424ab11_sachin-records.png",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\34abbe06-1fc7-4f6b-baee-879ab424ab11_sachin-records.png",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/34abbe06-1fc7-4f6b-baee-879ab424ab11_sachin-records.png",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\34abbe06-1fc7-4f6b-baee-879ab424ab11_sachin-records.png"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\458481a5-5fd9-443b-abe2-c217975efeb9_Tiger.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\458481a5-5fd9-443b-abe2-c217975efeb9_Tiger.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/458481a5-5fd9-443b-abe2-c217975efeb9_Tiger.jfif",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\458481a5-5fd9-443b-abe2-c217975efeb9_Tiger.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\484a683f-d615-4d8f-ae2f-665ff9edceb8_MicrosoftTeams-image.png",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\484a683f-d615-4d8f-ae2f-665ff9edceb8_MicrosoftTeams-image.png",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/484a683f-d615-4d8f-ae2f-665ff9edceb8_MicrosoftTeams-image.png",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\484a683f-d615-4d8f-ae2f-665ff9edceb8_MicrosoftTeams-image.png"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\4fc8871a-7fa4-4a5c-a335-7814d69f5203_ChrisGayle.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\4fc8871a-7fa4-4a5c-a335-7814d69f5203_ChrisGayle.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/4fc8871a-7fa4-4a5c-a335-7814d69f5203_ChrisGayle.jfif",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\4fc8871a-7fa4-4a5c-a335-7814d69f5203_ChrisGayle.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\59d89cf0-f93f-41a9-9d1d-2d2bed7ff6c8_Tiger.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\59d89cf0-f93f-41a9-9d1d-2d2bed7ff6c8_Tiger.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/59d89cf0-f93f-41a9-9d1d-2d2bed7ff6c8_Tiger.jfif",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\59d89cf0-f93f-41a9-9d1d-2d2bed7ff6c8_Tiger.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\60a7fde1-76e1-415e-babb-6a1b6968f3a4_Tiger.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\60a7fde1-76e1-415e-babb-6a1b6968f3a4_Tiger.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/60a7fde1-76e1-415e-babb-6a1b6968f3a4_Tiger.jfif",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\60a7fde1-76e1-415e-babb-6a1b6968f3a4_Tiger.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\635d8a27-ea4d-4ab0-9930-60b8089fac19_Tiger.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\635d8a27-ea4d-4ab0-9930-60b8089fac19_Tiger.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/635d8a27-ea4d-4ab0-9930-60b8089fac19_Tiger.jfif",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\635d8a27-ea4d-4ab0-9930-60b8089fac19_Tiger.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\74cf3c4c-e29f-42b9-b999-87e8ac709ea1_MicrosoftTeams-image (3).png",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\74cf3c4c-e29f-42b9-b999-87e8ac709ea1_MicrosoftTeams-image (3).png",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/74cf3c4c-e29f-42b9-b999-87e8ac709ea1_MicrosoftTeams-image (3).png",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\74cf3c4c-e29f-42b9-b999-87e8ac709ea1_MicrosoftTeams-image (3).png"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\86299355-984c-459e-8625-869df63c6229_Tiger.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\86299355-984c-459e-8625-869df63c6229_Tiger.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/86299355-984c-459e-8625-869df63c6229_Tiger.jfif",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\86299355-984c-459e-8625-869df63c6229_Tiger.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\89e05464-c585-4565-9f27-7888be546a13_Tiger.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\89e05464-c585-4565-9f27-7888be546a13_Tiger.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/89e05464-c585-4565-9f27-7888be546a13_Tiger.jfif",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\89e05464-c585-4565-9f27-7888be546a13_Tiger.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\99d4b1a0-57ed-4fdb-9720-898db0842317_ChrisGayle.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\99d4b1a0-57ed-4fdb-9720-898db0842317_ChrisGayle.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/99d4b1a0-57ed-4fdb-9720-898db0842317_ChrisGayle.jfif",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\99d4b1a0-57ed-4fdb-9720-898db0842317_ChrisGayle.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\9ce9810c-58c1-4f7e-96fc-f33cc24dfc94_Tiger.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\9ce9810c-58c1-4f7e-96fc-f33cc24dfc94_Tiger.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/9ce9810c-58c1-4f7e-96fc-f33cc24dfc94_Tiger.jfif",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\9ce9810c-58c1-4f7e-96fc-f33cc24dfc94_Tiger.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\a044e4bf-1a84-43cf-82cb-0e2d24dab9e5_Tiger.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\a044e4bf-1a84-43cf-82cb-0e2d24dab9e5_Tiger.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/a044e4bf-1a84-43cf-82cb-0e2d24dab9e5_Tiger.jfif",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\a044e4bf-1a84-43cf-82cb-0e2d24dab9e5_Tiger.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\a0d23230-0cb5-4b1b-a43f-05168134d471_Tiger.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\a0d23230-0cb5-4b1b-a43f-05168134d471_Tiger.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/a0d23230-0cb5-4b1b-a43f-05168134d471_Tiger.jfif",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\a0d23230-0cb5-4b1b-a43f-05168134d471_Tiger.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\a979842d-766a-480d-94ea-70489fbfb499_ChrisGayle.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\a979842d-766a-480d-94ea-70489fbfb499_ChrisGayle.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/a979842d-766a-480d-94ea-70489fbfb499_ChrisGayle.jfif",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\a979842d-766a-480d-94ea-70489fbfb499_ChrisGayle.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\ad709cc0-6dc4-4393-82f0-14690ea7baa4_Tiger.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\ad709cc0-6dc4-4393-82f0-14690ea7baa4_Tiger.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/ad709cc0-6dc4-4393-82f0-14690ea7baa4_Tiger.jfif",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\ad709cc0-6dc4-4393-82f0-14690ea7baa4_Tiger.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\b3c7dbaa-5ad6-4483-bd8e-02eb6a54b499_lionel messi - Google Search.html",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\b3c7dbaa-5ad6-4483-bd8e-02eb6a54b499_lionel messi - Google Search.html",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/b3c7dbaa-5ad6-4483-bd8e-02eb6a54b499_lionel messi - Google Search.html",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\b3c7dbaa-5ad6-4483-bd8e-02eb6a54b499_lionel messi - Google Search.html"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\b92515e2-71f4-483f-a822-1cf3938387ec_Tiger.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\b92515e2-71f4-483f-a822-1cf3938387ec_Tiger.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/b92515e2-71f4-483f-a822-1cf3938387ec_Tiger.jfif",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\b92515e2-71f4-483f-a822-1cf3938387ec_Tiger.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\ba155e1a-3f2b-4c34-8ebf-6f89c94fc3aa_Tiger.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\ba155e1a-3f2b-4c34-8ebf-6f89c94fc3aa_Tiger.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/ba155e1a-3f2b-4c34-8ebf-6f89c94fc3aa_Tiger.jfif",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\ba155e1a-3f2b-4c34-8ebf-6f89c94fc3aa_Tiger.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\ccf3b838-9ead-49c6-97f9-f60877498b22_R.jpeg",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\ccf3b838-9ead-49c6-97f9-f60877498b22_R.jpeg",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/ccf3b838-9ead-49c6-97f9-f60877498b22_R.jpeg",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\ccf3b838-9ead-49c6-97f9-f60877498b22_R.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\e7323219-3dcd-4f5d-ad42-1e28cc33e25f_Tiger.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\e7323219-3dcd-4f5d-ad42-1e28cc33e25f_Tiger.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/e7323219-3dcd-4f5d-ad42-1e28cc33e25f_Tiger.jfif",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\e7323219-3dcd-4f5d-ad42-1e28cc33e25f_Tiger.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\fc4c64f2-b828-4c0a-a956-4f1116c27c3a_Tiger.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\fc4c64f2-b828-4c0a-a956-4f1116c27c3a_Tiger.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/fc4c64f2-b828-4c0a-a956-4f1116c27c3a_Tiger.jfif",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePics\\fc4c64f2-b828-4c0a-a956-4f1116c27c3a_Tiger.jfif"
     },
     {
-      "Identity": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\ProfilePics\\fef1456e-dcd2-4810-99dc-76cce6d89882_Tiger.jfif",
+      "Identity": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\ProfilePics\\fef1456e-dcd2-4810-99dc-76cce6d89882_Tiger.jfif",
       "SourceId": "TraineesManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Downloads\\TraineesManagementSystem (1) (1)\\TraineesManagementSystem (1)\\TraineesManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Vamsi Nakka\\Source\\Repos\\MainProject\\TraineesManagementSystem\\TraineesManagementSystem\\wwwroot\\",
       "BasePath": "_content/TraineesManagementSystem",
       "RelativePath": "ProfilePics/fef1456e-dcd2-4810-99dc-76cce6d89882_Tiger.jfif",
       "AssetKind": "All",

@@ -4,6 +4,7 @@
 	Layout = "AdminLayout";
 
 	ViewData["Title"] = "TraineesInMainBatch";
+
 	string subBatchName=TempData["SubBatchName"].ToString() ;
 	string AssignCourse = TempData["course"].ToString();
 
@@ -13,7 +14,7 @@
 
 <button><a style="text-decoration:none;color: #fff;" asp-action="SubBatchesDetails">Go To SubBatches</a></button>
 
-
+<h1>Trainees</h1>
 
 <div class="values">
 	<div class="val-box">
@@ -30,12 +31,9 @@
 		<thead>
 			<tr>
 				<td></td>
-				<td>Name</td>
-				<td>Date Of Joining</td>
-				<td>Mobile Number</td>
-				<td>Date Of Birth</td>
-				<td></td>
-			</tr>
+				<td>TraineeId</td>
+				<td>MainBatch Name</td>
+				<td>Select</td>
 		</thead>
 		<tbody>
 			@if (Model != null && Model.Count() > 0)
@@ -50,14 +48,19 @@
 						<td class="people">
 							<div class="people-de">
 
-								<p>@Html.DisplayFor(modelitem=>item.TraineeId)</p>
 								<h5>
+									<i class="fa-sharp fa-solid fa-user"></i>
 									<a asp-action="GetTraineeDetailsById" asp-route-traineeId="@item.TraineeId" style="text-decoration:none;">@item.TraineeName</a>
 
 								</h5>
 								
 							</div>
 						</td>
+
+						<td class="people-des">
+							<p>@Html.DisplayFor(modelitem=>item.TraineeId)</p>
+						</td>
+
 						<td class="people-des">
 							<p>@Html.DisplayFor(modelitem=>item.BatchName)</p>
 						</td>
@@ -77,7 +80,9 @@
 
 			else
 			{
+				<tr>
 			<td colspan="4" class="text-center"><b><a asp-action="Register">No Data Available . Please Add Data By CLick On Create Button</a></b></td>
+				</tr>
 			}
 		</tbody>
 		<td colspan="4" class="text-center"><b>No more trainees to show.</b></td>
@@ -86,52 +91,3 @@
 	</table>
 </dir>
 
-<h1>TraineesInMainBatch</h1>
-<link rel="stylesheet" href="~/css/Details.css">
-
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.BatchId)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.BatchName)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.TraineeId)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.TraineeName)
-            </th>
-           
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.BatchId)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.BatchName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.TraineeId)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.TraineeName)
-            </td>
-           
-            <td>
-                <a asp-action="AddTraineeToSubBatch" asp-route-BatchId="@item.BatchId" asp-route-BatchName="@item.BatchName" asp-route-TraineeId="@item.TraineeId" asp-route-TraineeName="@item.TraineeName"  asp-route-SubBatchName="@subBatchName">Add Trainee</a> |
-               
-            </td>
-        </tr>
-}
-    </tbody>
-</table>

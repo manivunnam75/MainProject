@@ -59,6 +59,11 @@ namespace TraineesManagementSystem.Controllers
             this.ViewBag.Pager = pager;
             return View(data);
         }
+        /// <summary>
+        /// AllDetails Method is used to search TraineeBy Id
+        /// </summary>
+        /// <param name="traineeId"></param>
+        /// <returns></returns>
         public ActionResult AllDetails(int traineeId)
         {
             
@@ -291,10 +296,10 @@ namespace TraineesManagementSystem.Controllers
             }
             return RedirectToAction("BatchesDetails");
         }
-        public ActionResult TraineeDetails(int TraineeId)
+        public ActionResult TraineeDetails(int traineeId)
         {
 
-            var details2 = _TraineeDbContext.Traineesdetails.Where(x => x.TraineeId == TraineeId).ToList();
+            var details2 = _TraineeDbContext.Traineesdetails.Where(x => x.TraineeId == traineeId).ToList();
             if (details2 != null)
             {
                 return View("AllDetails",details2);
@@ -336,7 +341,7 @@ namespace TraineesManagementSystem.Controllers
                 return View(details);
 
             }
-            return View("AdminLoginSuccess");
+            return RedirectToAction("AdminLoginSuccess");
         }
         public ActionResult TraineesInSubbatches(string SubBatchName)
         {
@@ -348,6 +353,8 @@ namespace TraineesManagementSystem.Controllers
             var details = _TraineeDbContext.Subbatchesdetails.FirstOrDefault(x => x.SubBatchName == SubBatchName);
             var details2 = _TraineeDbContext.Traineesinsubbatches.Where(x => x.SubBatchName == SubBatchName).ToList();
             TempData["mainBatchId"] = details.MainBatchId;
+            TempData["name"] = SubBatchName;
+            TempData["mainBatchName"] = details.MainBatchName;
             
             return View(details2);   
 
@@ -361,6 +368,7 @@ namespace TraineesManagementSystem.Controllers
             {
                 TempData["SubBatchName"] = details2.SubBatchName;
                 TempData["course"] = details2.AssignCourse;
+                
             }
             if(MainBatchId==0)
             {

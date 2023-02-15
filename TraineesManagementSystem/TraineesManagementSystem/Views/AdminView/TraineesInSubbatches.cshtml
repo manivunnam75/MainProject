@@ -9,59 +9,89 @@
 }
 <link rel="stylesheet" href="~/css/Details.css">
 
-<h1>TraineesInSubbatches</h1>
+<h1>SubBatch : @TempData["name"].ToString() In MainBatch : @TempData["mainBatchName"]</h1>
 
-<p>
-    <a asp-action="TraineesInMainBatch" asp-route-MainBatchId="@mainBatchId">Add Trainees</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.MainBatchId)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.MainBatchName)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.SubBatchName)
-            </th>
-           
-            <th>
-                @Html.DisplayNameFor(model => model.TraineeId)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.TraineeName)
-            </th>
-            <th>
 
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.MainBatchId)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.MainBatchName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.SubBatchName)
-            </td>
-           
-            <td>
-                @Html.DisplayFor(modelItem => item.TraineeId)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.TraineeName)
-            </td>
-            <td>
-               <a asp-controller= "AdminView" asp-action="DelTraineeInSubBatch" asp-route-traineeId="@item.TraineeId" asp-route-SubBatchName="@item.SubBatchName">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+<button><a style="text-decoration:none;color: #fff;" asp-action="TraineesInMainBatch" asp-route-MainBatchId="@mainBatchId">Add Trainees</a></button>
+
+
+<dir class="board">
+    <table width="100%">
+        <thead>
+            <tr>
+                <td></td>
+                <td>TraineeId</td>
+                <td>Remove</td>
+                <td>Info</td>
+
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Count() > 0)
+            {
+
+                foreach (var item in Model)
+                {
+
+                    <tr>
+                        <td class="people">
+                            <div class="people-de">
+                                <h5>
+
+                                    <i class="fa-sharp fa-solid fa-user"></i>
+                                </h5>
+
+                            </div>
+
+                        </td>
+
+                        <td class="people">
+
+                            <div class="people-de">
+                                <h5>
+                                    <a asp-action="GetTraineeDetailsById" asp-route-traineeId="@item.TraineeId" style="text-decoration:none;">@Html.DisplayFor(modelitem=>item.TraineeName)</a>
+
+                                </h5>
+
+                            </div>
+                        </td>
+
+                        <td class="people-des">
+
+                            <h5>
+                                @Html.DisplayFor(modelitem=>item.TraineeId)
+                            </h5>
+
+                        </td>
+
+
+
+                        <td class="edit">
+                            <a asp-controller="AdminView" asp-action="DelTraineeInSubBatch" asp-route-traineeId="@item.TraineeId" asp-route-SubBatchName="@item.SubBatchName">Delete</a>
+                        </td>
+                        <td class="edit">
+                            <a asp-action="GetTraineeDetailsById" asp-route-traineeId="@item.TraineeId" style="text-decoration:none;">Details</a>
+
+                        </td>
+                    </tr>
+
+
+                }
+            }
+
+
+
+
+            else
+            {
+                <tr>
+                    <td colspan="4" class="text-center"><b>No Trainees here . Please Add Trainee By CLick On AddTrainee Button</b></td>
+                </tr>
+            }
+        </tbody>
+
+
+
+    </table>
+    </dir>
+
