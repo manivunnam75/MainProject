@@ -80,7 +80,7 @@ namespace TraineesManagementSystem.Controllers
 		}
 
 
-		public ActionResult Edit(int Id)
+		public ActionResult EditTrainee(int Id)
         {
             var details = _TraineeDbContext.Traineesdetails.FirstOrDefault(x=>x.TraineeId==Id);
             
