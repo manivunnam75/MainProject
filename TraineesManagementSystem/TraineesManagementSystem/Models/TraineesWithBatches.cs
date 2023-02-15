@@ -9,8 +9,10 @@
 
         public string TraineeId { get; set; }   
 
-        public string TraineeName { get; set; } 
+        public string TraineeName { get; set; }
 
+
+        public bool Istick { get; set; }
 
     }
 }

@@ -1,4 +1,4 @@
-﻿@model IEnumerable<TraineesManagementSystem.Models.TraineesWithBatches>
+﻿@model List<TraineesManagementSystem.Models.TraineesWithBatches>
 
 @{
 	Layout = "AdminLayout";
@@ -27,6 +27,7 @@
 </div>
 
 <dir class="board">
+	<form method="post">
 	<table width="100%">
 		<thead>
 			<tr>
@@ -36,6 +37,10 @@
 				<td>Select</td>
 		</thead>
 		<tbody>
+			@{
+				int i = 0;
+
+			}
 			@if (Model != null && Model.Count() > 0)
 			{
 
@@ -66,11 +71,16 @@
 						</td>
 
 						<td>
-							<a asp-action="AddTraineeToSubBatch" asp-route-BatchId="@item.BatchId" asp-route-BatchName="@item.BatchName" asp-route-TraineeId="@item.TraineeId" asp-route-TraineeName="@item.TraineeName"  asp-route-SubBatchName="@subBatchName" asp-route-AssignCourse="@AssignCourse">Add Trainee</a> 
+							<label class="form-check-label" for="@Model[i].BatchId" asp-validation-for="@Model[i].BatchId"></label>
+							<input type="checkbox" asp-for="@Model[i].Istick">
+							<input type="hidden" asp-for="@Model[i].BatchId">
+							<input type="hidden" asp-for="@Model[i].BatchName">
+							<input type="hidden" asp-for="@Model[i].TraineeId">
+							<input type="hidden" asp-for="@Model[i].TraineeName">
 
 						</td>
 					</tr>
-
+					i++;
 
 				}
 			}
@@ -87,7 +97,8 @@
 		</tbody>
 		<td colspan="4" class="text-center"><b>No more trainees to show.</b></td>
 
-
+		<button>SUBMIT</button>
 	</table>
+	</form>
 </dir>
 
