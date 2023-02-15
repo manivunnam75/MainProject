@@ -46,6 +46,7 @@ namespace TraineesManagementSystem.Controllers
             return View(data);
 
         }
+        [HttpGet]
         public ActionResult AllTraineeDetails(int page = 1)
         {
             var details = _TraineeDbContext.Traineesdetails.ToList();
@@ -59,7 +60,41 @@ namespace TraineesManagementSystem.Controllers
             this.ViewBag.Pager = pager;
             return View(data);
         }
-        public ActionResult AllDetails(int traineeId)
+        [HttpPost]
+		public ActionResult AllTraineeDetails(List<TraineeDetails> l1)
+		{
+			var details = l1.FindAll(x => x.Ischeck == true).ToList();
+
+			int batchId = 0;
+			string batchName = "";
+			string courseAssigned = "";
+			if (TempData.ContainsKey("Id") && TempData.ContainsKey("Name") && TempData.ContainsKey("Course"))
+			{
+				batchId = (int)TempData["Id"];
+				batchName = TempData["Name"].ToString();
+				courseAssigned = TempData["Course"].ToString();
+
+			}
+			for (int i = 0; i < details.Count; i++)
+			{
+				TraineesWithBatches _addingTraineesToBatches = new TraineesWithBatches();
+
+				_addingTraineesToBatches.BatchId = batchId;
+				_addingTraineesToBatches.BatchName = batchName;
+
+				_addingTraineesToBatches.TraineeId = details[i].TraineeId.ToString();
+				_addingTraineesToBatches.TraineeName = details[i].TraineeName;
+				
+				_TraineeDbContext.Traineeswithbatches.Add(_addingTraineesToBatches);
+				_TraineeDbContext.SaveChanges();
+			}
+
+			TempData["batchid"] = batchId;
+
+			return RedirectToAction("EveryBatchDetails", batchId);
+		}
+	
+		public ActionResult AllDetails(int traineeId)
         {
             
             var details2 = _TraineeDbContext.Traineesdetails.Where(x=>x.TraineeId==traineeId).ToList();
@@ -177,30 +212,7 @@ namespace TraineesManagementSystem.Controllers
 
         }
         
-        public ActionResult AddTrainees(int TraineeId)
-        {
-            var details = _TraineeDbContext.Traineesdetails.FirstOrDefault(x => x.TraineeId == TraineeId);
-
-            int batchId=0;
-            string batchName="";
-            string courseAssigned = "";
-            if(TempData.ContainsKey("Id") && TempData.ContainsKey("Name"))
-            {
-                batchId = (int)TempData["Id"];
-                batchName = TempData["Name"].ToString();
-
-            }
-            TraineesWithBatches _addingTraineesToBatches = new TraineesWithBatches()
-            {
-                BatchId= batchId,
-                BatchName=batchName,
-                TraineeId=details.TraineeId.ToString(),
-                TraineeName=details.TraineeName,
-            };
-            _TraineeDbContext.Traineeswithbatches.Add(_addingTraineesToBatches);
-            _TraineeDbContext.SaveChanges();
-            return RedirectToAction("AllTraineeDetails");
-        }
+       
        
        
         public ActionResult AllDetails1(int BatchId)

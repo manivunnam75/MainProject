@@ -1,4 +1,4 @@
-﻿@model IEnumerable<TraineesManagementSystem.Models.TraineeDetails>
+﻿@model List<TraineesManagementSystem.Models.TraineeDetails>
 
 @{
 	ViewData["Title"] = "AllTraineeDetails";
@@ -99,7 +99,11 @@
 				<td></td>
 			</tr>
 		</thead>
-		<tbody>
+
+			@{
+				int i = 0;
+			}
+			<form method="post">
 			@if (Model != null && Model.Count() > 0)
 			{
 
@@ -198,11 +202,14 @@
 
 						</td>
 						<td>
-							<a type="submit" asp-controller="AdminView" asp-action="AddTrainees" asp-route-TraineeId="@item.TraineeId"><i class="fa-solid fa-user-plus"></i></a>
+							<label class="form-check-label" for="@Model[i].TraineeId" asp-validation-for="@Model[i].TraineeId"></label>
+						<input type="checkbox" asp-for="@Model[i].Ischeck"/>
+						<input type="hidden" asp-for="@Model[i].TraineeId"/>
+						<input type="hidden" asp-for="@Model[i].TraineeName" />
 						</td>
 					</tr>
 
-
+					i++;
 				}
 			}
 
@@ -213,7 +220,9 @@
 			{
 			<td colspan="4" class="text-center"><b><a asp-action="Register">No Data Available . Please Add Data By CLick On Create Button</a></b></td>
 			}
-		</tbody>
+			<button>SUBMIT</button>
+		</form>
+	
 		<td colspan="4" class="text-center"><b>No more trainees to show.</b></td>
 
 

@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TraineesManagementSystem.Models;
 
@@ -10,9 +11,11 @@ using TraineesManagementSystem.Models;
 namespace TraineesManagementSystem.Migrations
 {
     [DbContext(typeof(TraineeDbContext))]
-    partial class TraineeDbContextModelSnapshot : ModelSnapshot
+    [Migration("20230215073739_Ischeck")]
+    partial class Ischeck
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
