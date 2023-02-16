@@ -9,113 +9,113 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TraineesManagementSystem
 build_property.RootNamespace = TraineesManagementSystem
-build_property.ProjectDir = C:\Users\Vamsi Nakka\Downloads\TraineesManagementSystem (1) (1)\TraineesManagementSystem (1)\TraineesManagementSystem\
+build_property.ProjectDir = C:\Users\Madhu Palli\source\repos\MainProject\TraineesManagementSystem\TraineesManagementSystem\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Vamsi Nakka\Downloads\TraineesManagementSystem (1) (1)\TraineesManagementSystem (1)\TraineesManagementSystem
+build_property.MSBuildProjectDirectory = C:\Users\Madhu Palli\source\repos\MainProject\TraineesManagementSystem\TraineesManagementSystem
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/AdminView/Admin.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/AdminView/Admin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5WaWV3XEFkbWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/AdminView/AdminLoginSuccess.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/AdminView/AdminLoginSuccess.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5WaWV3XEFkbWluTG9naW5TdWNjZXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/AdminView/AllDetails1.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/AdminView/AllDetails1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5WaWV3XEFsbERldGFpbHMxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/AdminView/AllTraineeDetails.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/AdminView/AllTraineeDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5WaWV3XEFsbFRyYWluZWVEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/AdminView/Batches.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/AdminView/Batches.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5WaWV3XEJhdGNoZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/AdminView/BatchesDetails.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/AdminView/BatchesDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5WaWV3XEJhdGNoZXNEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/AdminView/CreateBatch.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/AdminView/CreateBatch.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5WaWV3XENyZWF0ZUJhdGNoLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/AdminView/Edit.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/AdminView/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5WaWV3XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/AdminView/EditBatch.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/AdminView/EditBatch.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5WaWV3XEVkaXRCYXRjaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/AdminView/EveryBatchDetails.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/AdminView/EveryBatchDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5WaWV3XEV2ZXJ5QmF0Y2hEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/AdminView/GetTraineeDetailsById.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/AdminView/GetTraineeDetailsById.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5WaWV3XEdldFRyYWluZWVEZXRhaWxzQnlJZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/AdminView/SubBatch.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/AdminView/SubBatch.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5WaWV3XFN1YkJhdGNoLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/AdminView/SubBatchesDetails.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/AdminView/SubBatchesDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5WaWV3XFN1YkJhdGNoZXNEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/AdminView/TraineesInMainBatch.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/AdminView/TraineesInMainBatch.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5WaWV3XFRyYWluZWVzSW5NYWluQmF0Y2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/AdminView/TraineesInSubbatches.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/AdminView/TraineesInSubbatches.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5WaWV3XFRyYWluZWVzSW5TdWJiYXRjaGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/Home/TraineeDetails.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/Home/TraineeDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmFpbmVlRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/Shared/AdminLayout.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/Shared/AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/Shared/AllDetailsLayout.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/Shared/AllDetailsLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFsbERldGFpbHNMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/Shared/_AddTraineesPartialView.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/Shared/_AddTraineesPartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZGRUcmFpbmVlc1BhcnRpYWxWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/Shared/_EditLayout.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/Shared/_EditLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FZGl0TGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/Shared/_Modal.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/Shared/_Modal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Nb2RhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/Shared/_TraineeDetailsPartialView.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/Shared/_TraineeDetailsPartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UcmFpbmVlRGV0YWlsc1BhcnRpYWxWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/_ViewImports.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/_ViewStart.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamsi Nakka/Downloads/TraineesManagementSystem (1) (1)/TraineesManagementSystem (1)/TraineesManagementSystem/Views/Shared/_Layout.cshtml]
+[C:/Users/Madhu Palli/source/repos/MainProject/TraineesManagementSystem/TraineesManagementSystem/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lg9ovut1mc
