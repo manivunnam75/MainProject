@@ -1,4 +1,5 @@
 ﻿using Azure;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Razor.Language.Extensions;
@@ -17,22 +18,33 @@ namespace TraineesManagementSystem.Controllers
         {
             _TraineeDbContext = traineeDbContext;
         }
+        /// <summary>
+        /// LoginPage method is used to display the Login Page 
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
-        public IActionResult Admin()
+        public IActionResult LoginPage()
         {
             return View();
         }
+        
         [HttpPost]
-        public IActionResult Admin(string MobileNumber,string Password)
+        public IActionResult LoginPage(string MobileNumber,string Password)
         {
+            //validate whether the Mobile Number and Password is Matching or not
             if (MobileNumber == "8108434881" && Password == "12")
             {
-                return RedirectToAction("AdminLoginSuccess");
+                return RedirectToAction("LoginSuccess");
             }
             return View();
 
         }
-        public IActionResult AdminLoginSuccess(int page = 1)
+        /// <summary>
+        /// LoginSuccess will display all the TraineeDetails with pagination
+        /// </summary>
+        /// <param name="page"></param>
+        /// <returns></returns>
+        public IActionResult LoginSuccess(int page = 1)
         {
             var details = _TraineeDbContext.Traineesdetails.ToList();
             const int pageSize = 4;
@@ -46,7 +58,12 @@ namespace TraineesManagementSystem.Controllers
             return View(data);
 
         }
-        public ActionResult AllTraineeDetails(int page = 1)
+        /// <summary>
+        /// Display All TraineeDetails To Add trainees to a Main Batch
+        /// </summary>
+        /// <param name="page"></param>
+        /// <returns></returns>
+        public ActionResult AddTraineeToMainBatch(int page = 1)
         {
             var details = _TraineeDbContext.Traineesdetails.ToList();
             const int pageSize = 4;
@@ -59,17 +76,27 @@ namespace TraineesManagementSystem.Controllers
             this.ViewBag.Pager = pager;
             return View(data);
         }
-        public ActionResult AllDetails(int traineeId)
+		/// <summary>
+		/// search The Trainee By Id and display the Basic Details Of Trainee
+		/// </summary>
+		/// <param name="traineeId"></param>
+		/// <returns>LoginSuccess View</returns>
+		public ActionResult SearchTraineeById(int traineeId)
         {
             
             var details2 = _TraineeDbContext.Traineesdetails.Where(x=>x.TraineeId==traineeId).ToList();
             if(details2 != null)
             {
-                return View("AdminLoginSuccess",details2);
+                return View("LoginSuccess",details2);
             }
-            return View("AdminLoginSuccess");
+            return View("LoginSuccess");
         }
 
+        /// <summary>
+        /// Retrive All The Details Of Trainee based on Trainee Id
+        /// </summary>
+        /// <param name="traineeId"></param>
+        /// <returns></returns>
 		public ActionResult GetTraineeDetailsById(int traineeId)
 		{
 
@@ -79,7 +106,11 @@ namespace TraineesManagementSystem.Controllers
 			
 		}
 
-
+        /// <summary>
+        /// Display Details OF Trainee In Edit page By Trainee  Id
+        /// </summary>
+        /// <param name="Id"></param>
+        /// <returns></returns>
 		public ActionResult EditTrainee(int Id)
         {
             var details = _TraineeDbContext.Traineesdetails.FirstOrDefault(x=>x.TraineeId==Id);
@@ -88,8 +119,13 @@ namespace TraineesManagementSystem.Controllers
             
             
         }
+        /// <summary>
+        /// Edit The Details Of Trainee and Save in DataBase
+        /// </summary>
+        /// <param name="traineeDetails"></param>
+        /// <returns></returns>
         [HttpPost]
-        public ActionResult Edit(TraineeDetails traineeDetails)
+        public ActionResult EditTrainee(TraineeDetails traineeDetails)
         {
             TraineeDetails _traineeDetails = new TraineeDetails()
             {
@@ -115,6 +151,11 @@ namespace TraineesManagementSystem.Controllers
             _TraineeDbContext.SaveChanges();
             return RedirectToAction("AllDetails");
         }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="Id"></param>
+        /// <returns></returns>
         [HttpGet]
         public ActionResult Delete(string Id)
         {
@@ -134,12 +175,9 @@ namespace TraineesManagementSystem.Controllers
                 _TraineeDbContext.Traineesinsubbatches.Remove(traineeInSubBatch);
                 _TraineeDbContext.SaveChanges();
             }
-            return RedirectToAction("AdminLoginSuccess");
+            return RedirectToAction("LoginSuccess");
         }
-        public ActionResult Batches()
-        {
-            return View();
-        }
+       
         [HttpGet]
         public ActionResult CreateBatch()
         {
@@ -199,7 +237,7 @@ namespace TraineesManagementSystem.Controllers
             };
             _TraineeDbContext.Traineeswithbatches.Add(_addingTraineesToBatches);
             _TraineeDbContext.SaveChanges();
-            return RedirectToAction("AllTraineeDetails");
+            return RedirectToAction("AddTraineeToMainBatch");
         }
        
        
@@ -211,7 +249,7 @@ namespace TraineesManagementSystem.Controllers
                 TempData["Id"] = details.BatchId;
                 TempData["Name"] = details.BatchName;
             }
-            return RedirectToAction("AllTraineeDetails");
+            return RedirectToAction("AddTraineeToMainBatch");
         }
         public ActionResult EveryBatchDetails(int BatchId)
         {
@@ -336,7 +374,7 @@ namespace TraineesManagementSystem.Controllers
                 return View(details);
 
             }
-            return View("AdminLoginSuccess");
+            return View("LoginSuccess");
         }
         public ActionResult TraineesInSubbatches(string SubBatchName)
         {

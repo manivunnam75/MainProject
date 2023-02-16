@@ -61,7 +61,7 @@
             @for (var pge = Model.StartPage; pge <= Model.EndPge; pge++)
 
             {
-                <li class="page-item @(pge == Model.CurrentPage ? "active" : "")" style="padding-left:30px;"><a class="page-link" asp-controller="AdminView" asp-action="AllTraineeDetails" asp-route-page="@pge">@pge</a></li>
+                <li class="page-item @(pge == Model.CurrentPage ? "active" : "")" style="padding-left:30px;"><a class="page-link" asp-controller="AdminView" asp-action="AddTraineeToMainBatch" asp-route-page="@pge">@pge</a></li>
             }
 			<div class="bar"></div>
         </ul>

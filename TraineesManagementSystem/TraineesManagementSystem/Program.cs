@@ -14,9 +14,11 @@ namespace TraineesManagementSystem
             builder.Services.AddDbContext<TraineeDbContext>(options => 
             { options.UseSqlServer(connection); });
 
+           
 
-            // Add services to the container.
-            builder.Services.AddControllersWithViews();
+
+			// Add services to the container.
+			builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
 
@@ -27,7 +29,7 @@ namespace TraineesManagementSystem
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
-
+            
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
@@ -37,7 +39,7 @@ namespace TraineesManagementSystem
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=AdminView}/{action=AdminLoginSuccess}/{id?}");
+                pattern: "{controller=AdminView}/{action=LoginSuccess}/{id?}");
 
             app.Run();
         }
