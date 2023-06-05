@@ -7,9 +7,10 @@
 
         public string BatchName { get; set; }   
 
-        public string TraineeId { get; set; }   
+        public int TraineeId { get; set; }   
 
-        public string TraineeName { get; set; } 
+        public string TraineeName { get; set; }
+        public bool IsTick { get; set; }
 
 
     }

@@ -1,5 +1,10 @@
 using Microsoft.EntityFrameworkCore;
-using TraineesManagementSystem.Models;
+using TraineesManagementSystem.Repositary;
+using TraineesManagementSystem.Repositary.Context;
+using TraineesManagementSystem.Services;
+using TraineesManagementSystem.Services.Interfaces;
+using AutoMapper;
+using Microsoft.AspNetCore.Hosting;
 
 namespace TraineesManagementSystem
 {
@@ -9,14 +14,19 @@ namespace TraineesManagementSystem
         {
             var builder = WebApplication.CreateBuilder(args);
             string connection = builder.Configuration.GetConnectionString("con");
-
+         //   builder.Services.AddAutoMapper(typeof(Program));
 
             builder.Services.AddDbContext<TraineeDbContext>(options => 
             { options.UseSqlServer(connection); });
 
-
+           
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddScoped<ITraineeService,TraineeService>();
+            builder.Services.AddScoped<ITraineeRepository, TraineeRepository>();
+            
+
+
 
             var app = builder.Build();
 
@@ -37,7 +47,7 @@ namespace TraineesManagementSystem
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=AdminView}/{action=AdminLoginSuccess}/{id?}");
+                pattern: "{controller=Home}/{action=TraineeDetails}/{id?}");
 
             app.Run();
         }

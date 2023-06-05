@@ -1,4 +1,4 @@
-﻿@model List<TraineesManagementSystem.Models.TraineeDetails>
+﻿@model List<TraineesManagementSystem.Repositary.Entites.TraineeDetails>
 
 @{
 	ViewData["Title"] = "AllTraineeDetails";
@@ -11,70 +11,7 @@
 		pageNo = pager.CurrentPage;
 	}
 }
-@*<script src="~/Scripts/jquery-1.10.2.min.js"></script>
-<script src="https://kit.fontawesome.com/295a130e43.js" crossorigin="anonymous"></script>
 
-<link href="~/Content/bootstrap.min.css" rel="stylesheet" /><script src="~/Scripts/bootstrap.min.js"></script>
-<style>
-
-
-    .prpdetailsalignment {
-        width: 200px;
-        text-align: center;
-        padding: 20px;
-        margin: 10px;
-    }
-
-
-</style>
-<table style="margin-top:30px;">
-    <tr>
-        <td >
-            <h3 style="width:140px;margin-left:50px;">Profile Pic </h3>
-        </td>
-        <td >
-            <h3 style="margin-left:70px;margin-right:70px;">Trainee Id </h3>
-        </td>
-        <td >
-            <h3 style="margin-left:30px;width:180px;"> Trainee Name </h3>
-        </td>
-        <td >
-            <h3 id="mobileId" style="margin-left:10px;margin-right:20px;">Mobile Number </h3>
-        </td>
-        <td >
-            <h3 style="margin-left:70px;">Email Id </h3>
-        </td>
-    </tr>
-</table>
-@if (Model != null)
-{
-    @foreach (var item in Model)
-    {
-        <table>
-            <tr>
-                <td class="prpdetailsalignment">
-                    <img src="~/ProfilePics/@item.ProfilePic" style="height:60px;width:60px;border-radius:50%" />
-
-                </td>
-                <td class="prpdetailsalignment">
-                    @item.TraineeId
-                </td>
-                <td class="prpdetailsalignment">
-                    @item.TraineeName
-                </td>
-                <td class="prpdetailsalignment">
-                    @item.MobileNumber
-                </td>
-                <td class="prpdetailsalignment">
-                    @item.EmailId
-                </td>
-                <td>
-                    <a type="submit" asp-controller="AdminView" asp-action="AddTrainees" asp-route-TraineeId="@item.TraineeId"><i class="fa-solid fa-user-plus"></i></a>
-                </td>
-            </tr>
-        </table>
-    }
-}*@
 
 
 <div class="values">
@@ -200,15 +137,10 @@
 								<p>@Html.DisplayFor(modelitem=>item.DateOfBirth)</p>
 							</td>
 							<td class="edit">
-								<a href="#">@Html.ActionLink("Edit", "Edit", new { id = item.TraineeId }) </a>
+								<a href="#">@Html.ActionLink("EditTrainee", "EditTrainee", new { id = item.TraineeId }) </a>
 
 							</td>
-							<td>
-								<label class="form-check-label" for="@Model[i].TraineeId" asp-validation-for="@Model[i].TraineeId"></label>
-								<input type="checkbox" asp-for="@Model[i].Ischeck" />
-								<input type="hidden" asp-for="@Model[i].TraineeId" />
-								<input type="hidden" asp-for="@Model[i].TraineeName" />
-							</td>
+							
 						</tr>
 
 						i++;

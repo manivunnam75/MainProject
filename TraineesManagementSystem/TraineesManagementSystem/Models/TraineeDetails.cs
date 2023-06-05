@@ -56,9 +56,10 @@ namespace TraineesManagementSystem.Models
         public string DateOfBirth { get; set; }
 
         public string ProfilePic { get; set; }
-
-
        
+
+
+
 
     }
 }

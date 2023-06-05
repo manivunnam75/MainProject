@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using TraineesManagementSystem.Models;
 using TraineesManagementSystem.Models.ViewModel;
+using TraineesManagementSystem.Repositary.Context;
 
 namespace TraineesManagementSystem.Controllers
 {
@@ -11,16 +12,16 @@ namespace TraineesManagementSystem.Controllers
     {
         private readonly TraineeDbContext _TraineeDbContext;
         private readonly IWebHostEnvironment _WebHostEnvironment;
-        public HomeController(TraineeDbContext traineeDbContext,IWebHostEnvironment webHostEnvironment)
+        public HomeController(TraineeDbContext traineeDbContext, IWebHostEnvironment webHostEnvironment)
         {
             _TraineeDbContext = traineeDbContext;
-            _WebHostEnvironment= webHostEnvironment;    
+            _WebHostEnvironment = webHostEnvironment;
         }
 
         [HttpGet]
         public IActionResult TraineeDetails()
         {
-            return View();                               
+            return View();
 
         }
 
@@ -28,39 +29,36 @@ namespace TraineesManagementSystem.Controllers
         public IActionResult TraineeDetails(TraineeViewModel traineeDetails)
         {
             string fileName = UploadedFile(traineeDetails);
+            TraineesManagementSystem.Repositary.Entites.TraineeDetails _traineeDetails = new TraineesManagementSystem.Repositary.Entites.TraineeDetails()
+            {
+                TraineeId = traineeDetails.TraineeId,
+                TraineeName = traineeDetails.TraineeName,
+                MobileNumber = traineeDetails.MobileNumber,
+                EmailId = traineeDetails.EmailId,
+                Stream = traineeDetails.Stream,
+                University = traineeDetails.University,
+                DegreeCollegeName = traineeDetails.DegreeCollegeName,
+                DegreePercentage = traineeDetails.DegreePercentage,
+                DateOfBirth = traineeDetails.DateOfBirth,
+                DateOfJoining = traineeDetails.DateOfJoining,
+                DegreePassedOut = traineeDetails.DegreePassedOut,
+                ProfilePic = fileName,
+                City = traineeDetails.City,
+                State = traineeDetails.State,
+                Village = traineeDetails.Village,
+                Street = traineeDetails.Street,
+                Pincode = traineeDetails.Pincode
+            };
+
+            _TraineeDbContext.Traineesdetails.Add(_traineeDetails);
+
+            _TraineeDbContext.SaveChanges();
+
+            ViewBag.Message = "Registration Successfully Completed";
+
+            return View();
 
 
-
-                TraineeDetails _traineeDetails = new TraineeDetails()
-                {
-                    TraineeId = traineeDetails.TraineeId,
-                    TraineeName = traineeDetails.TraineeName,
-                    MobileNumber = traineeDetails.MobileNumber,
-                    EmailId = traineeDetails.EmailId,
-                    Stream=traineeDetails.Stream,
-                    University= traineeDetails.University,
-                    DegreeCollegeName = traineeDetails.DegreeCollegeName,
-                    DegreePercentage = traineeDetails.DegreePercentage,
-                    DateOfBirth = traineeDetails.DateOfBirth,
-                    DateOfJoining = traineeDetails.DateOfJoining,
-                    DegreePassedOut = traineeDetails.DegreePassedOut,
-                    ProfilePic = fileName,
-                    City=traineeDetails.City,
-                    State=traineeDetails.State,
-                    Village=traineeDetails.Village,
-                    Street=traineeDetails.Street,
-                    Pincode=traineeDetails.Pincode
-                };
-              
-                _TraineeDbContext.Traineesdetails.Add(_traineeDetails);
-
-                _TraineeDbContext.SaveChanges();
-
-            ViewBag.Message= "Registration Successfully Completed";
-                
-                return View();
-
-            
         }
 
         private string UploadedFile(TraineeViewModel model)

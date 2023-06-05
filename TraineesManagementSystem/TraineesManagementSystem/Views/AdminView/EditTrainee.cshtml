@@ -1,14 +1,14 @@
-﻿@model TraineesManagementSystem.Models.TraineeDetails
+﻿@model TraineesManagementSystem.Repositary.Entites.TraineeDetails
 
 @{
-    ViewData["Title"] = "Edit";
+    ViewData["Title"] = "EditTrainee";
     Layout = "AdminLayout";
 }
 <link rel="stylesheet" href="~/css/RegistrationPage.css" asp-append-version="true" />
 
 <center>  <h3>Edit Details</h3></center>
 <hr />
-<form asp-action="Edit" method="post" asp-controller="AdminView" enctype="multipart/form-data">
+<form asp-action="EditTrainee" method="post" asp-controller="AdminView" enctype="multipart/form-data">
 
     <div id="MainRegistrationDiv">
 

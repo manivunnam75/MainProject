@@ -1,4 +1,4 @@
-﻿@model IEnumerable<TraineesManagementSystem.Models.TraineesWithBatches>
+﻿@model IEnumerable<TraineesManagementSystem.Repositary.Entites.TraineesWithBatches>
 
 @{
     ViewData["Title"] = "EveryBatchDetails";
@@ -16,7 +16,7 @@
 
 <button><a style="text-decoration:none;color: #fff;" asp-action="SubBatchesDetails">Sub Batches</a></button>
 
-<button><a style="text-decoration:none;color: #fff;" asp-controller="AdminView" asp-action="AllDetails1" asp-route-BatchId="@id" asp-route-BatchName="@batchName">Add Trainee</a></button>
+<button><a style="text-decoration:none;color: #fff;" asp-controller="AdminView" asp-action="AddTraineeToMainBatch" asp-route-BatchId="@id" asp-route-BatchName="@batchName">Add Trainee</a></button>
 
 
 
